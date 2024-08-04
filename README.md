@@ -1,1 +1,1 @@
-A 15-year-old student currently studying programming at a technical school. Proficient in Python and JavaScript, with knowledge in C++, PHP, SQL, and web development technologies like HTML and CSS. There are no projects yet, but some really good will appear soon.
+A 15-year-old student currently studying programming at college. Kind of roficient in Python and JavaScript, with some knowledge in C++, PHP, SQL, and web development technologies like HTML and CSS. There are no projects yet, but some really good will appear soon (or no).
